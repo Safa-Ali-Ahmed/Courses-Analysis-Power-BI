@@ -1,15 +1,14 @@
-📊 Data School Challenge – Power BI Dashboard
-📌 Project Overview
-This project was created for the Data School Challenge, focusing on transforming raw data into meaningful insights through data cleaning, EDA (Exploratory Data Analysis), and interactive dashboards.
+# 📊 Data School Challenge Dashboard
+This project is part of the **Data School Challenge** where I analyzed data, created insights, and built an interactive dashboard.
 
-🛠 Tools & Technologies
+## 🛠 Tools Used
 🐍 Python → Data cleaning & EDA (Pandas, NumPy, Matplotlib, Seaborn)
 
 📊 Power BI → Data modeling, visualization & interactivity
 
 📜 DAX → Calculated measures & KPIs
 
-🔍 Process Workflow
+## 🔹 Steps Taken
 Data Cleaning & EDA in Python
 
 Removed duplicates & handled missing values
